@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Kale! 👋
 
-<!--
-**elegant0328/elegant0328** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+- **Full-stack developer** with a passion for JavaScript, Vue.js, and modern web technologies.
+- Currently diving deep into **React** and **TypeScript**.
+- Avid reader of **tech books** and enthusiastic about **open-source projects**.
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- JavaScript | TypeScript | Vue.js | React
+- Node.js | Express | MongoDB
+- Git | GitHub | CI/CD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact Me
+- [Twitter](https://twitter.com/your_username)
+- [LinkedIn](https://linkedin.com/in/your_username)
+- [Email](mailto:your_email@example.com)
+
+## 🌟 Projects
+- [Project 1](https://github.com/your_username/project1)
+- [Project 2](https://github.com/your_username/project2)
+
+Let's build something amazing together! 🚀
