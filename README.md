@@ -10,13 +10,4 @@
 - Node.js | Express | MongoDB
 - Git | GitHub | CI/CD
 
-## 📫 Contact Me
-- [Twitter](https://twitter.com/your_username)
-- [LinkedIn](https://linkedin.com/in/your_username)
-- [Email](mailto:your_email@example.com)
-
-## 🌟 Projects
-- [Project 1](https://github.com/your_username/project1)
-- [Project 2](https://github.com/your_username/project2)
-
 Let's build something amazing together! 🚀
