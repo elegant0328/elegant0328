@@ -1,4 +1,4 @@
-# Hi there, I'm Kale! 👋
+# Hi there, I'm Eric! 👋
 
 ## 👨‍💻 About Me
 - **Full-stack developer** with a passion for JavaScript, Vue.js, and modern web technologies.
