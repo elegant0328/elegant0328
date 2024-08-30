@@ -1,4 +1,4 @@
-# Hi there, I'm Eric! 👋
+# Hi there, I'm Yingjie Zhao! 👋
 
 ## 👨‍💻 About Me
 - **Full-stack developer** with a passion for JavaScript, Vue.js, and modern web technologies.
